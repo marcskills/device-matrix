@@ -8,7 +8,6 @@ You get a contact sheet with one row per phone and a red box on every problem. Y
 where each problem lists the phones it shows on, so it can fix a bug and prove it's gone on every phone.
 
 It found a hidden button on 6 of 19 phone setups in my app, after every other test had passed.
-[The story and the method](ARTICLE_LINK).
 
 ## Install
 
