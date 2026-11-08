@@ -1,0 +1,3 @@
+interface:
+  display_name: "Device Matrix"
+  short_description: "Check every screen on many Android phone setups"

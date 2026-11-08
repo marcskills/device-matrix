@@ -1,0 +1,10 @@
+{
+  "name": "device-matrix",
+  "version": "0.1.0",
+  "description": "Run an Android app on many emulated phones and check every screenshot for layout bugs.",
+  "author": { "name": "Marc Vendrell", "url": "https://github.com/marcskills" },
+  "repository": "https://github.com/marcskills/device-matrix",
+  "license": "MIT",
+  "keywords": ["android", "testing", "layout", "emulator", "accessibility"],
+  "skills": ["./skills/device-matrix"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "marcskills",
+  "owner": { "name": "Marc Vendrell", "url": "https://github.com/marcskills" },
+  "description": "Device Matrix: check every screen of an Android app on many emulated phones.",
+  "plugins": [
+    {
+      "name": "device-matrix",
+      "source": "./",
+      "description": "Run an Android app on many emulated phones and check every screenshot for layout bugs.",
+      "category": "testing",
+      "keywords": ["android", "testing", "layout", "emulator", "accessibility"]
+    }
+  ]
+}
